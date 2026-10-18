@@ -1,0 +1,2 @@
+Assets/Scenes/*.unity filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/FrontYard.unity filter=lfs diff=lfs merge=lfs -text

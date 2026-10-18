@@ -1,0 +1,10 @@
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Logs/
+
+# Game builds (.exe)
+/Build/
+/Builds/

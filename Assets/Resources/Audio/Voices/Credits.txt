@@ -1,0 +1,4 @@
+Edgar's voice lines: made with the Piper text-to-speech tool, voice "joe" (CC0 licence - free to use).
+Whiskers' meows, yowl and hiss: generated from sound waves by a script (no outside source).
+Hammy's voice lines: made with the Piper text-to-speech tool, voice "alan" (en_GB, CC0 licence - free to use) - picked for a warmer, more mature/grandfatherly read than Edgar's "joe".
+Toby's voice lines: made with the Piper text-to-speech tool, voice "ryan" (en_US, high quality, CC BY-NC-SA 4.0 licence - free for non-commercial use with credit).

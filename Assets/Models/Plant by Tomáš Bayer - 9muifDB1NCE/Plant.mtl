@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Keramika
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Kvetinac__Dirt
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.223529 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd Plant/Kvetinac__Dirt.jpg
+
+newmtl Trava
+Ka 0.000000 0.000000 0.000000
+Kd 0.274510 0.454902 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd Plant/Trava.jpg
+

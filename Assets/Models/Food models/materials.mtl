@@ -1,0 +1,32 @@
+# Chips bag — polypizza reference palette
+# Orange-amber Lay's-style body, lime-green header, cream diagonal stripes.
+#
+# Face counts (guides which region each mat covers):
+#   mat13  237  main body base (golden amber)
+#   mat10  141  header region — bright lime-green
+#   mat18  100  diagonal highlight stripes — warm cream/tan
+#   mat21   56  barcode — white
+#   mat9    40  header sub-stripe — medium green
+#   mat8    22  body shadow / bottom edge — dark amber-brown
+#   mat3    12  mint accent (barcode bg / top fold)
+
+newmtl mat18
+  Kd 0.88 0.74 0.50
+
+newmtl mat13
+  Kd 0.94 0.61 0.10
+
+newmtl mat10
+  Kd 0.38 0.74 0.22
+
+newmtl mat9
+  Kd 0.28 0.60 0.26
+
+newmtl mat3
+  Kd 0.58 0.82 0.64
+
+newmtl mat21
+  Kd 1.00 1.00 1.00
+
+newmtl mat8
+  Kd 0.68 0.38 0.06
