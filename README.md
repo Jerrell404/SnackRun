@@ -24,20 +24,20 @@ Inspired by *Over the Hedge*, Snack Run blends stealth, exploration and collecti
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/Jerrell404/COMP307-SnackRun.git
-cd COMP307-SnackRun
+git clone https://github.com/Jerrell404/SnackRun.git
+cd SnackRun
 ```
 
 ### 2. Open the Project in Unity
 
 1. Launch Unity Hub.
 2. Click **Add project from disk**.
-3. Select the cloned `COMP307-SnackRun` folder.
+3. Select the cloned `SnackRun` folder.
 4. Open it using **Unity 6000.3.21f1** (or another Unity 6 version).
 
 ### 3. Play the Game
 
-Open `Assets/Scenes/FrontYard.unity` and press **Play ▶️**.
+Open `Assets/Scenes/MainMenu.unity` and press **Play ▶️**.
 
 **Controls:** WASD to move · Mouse to look · R to run · Left Shift to crouch · Space to jump · E to interact or hide
 
