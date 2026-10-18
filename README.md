@@ -21,6 +21,25 @@ Inspired by *Over the Hedge*, Snack Run blends stealth, exploration and collecti
 
 ## 🛠️ Installation & Setup
 
+### 1. Install Git LFS
+
+This project stores its scene files and large assets with **Git LFS**. Install it before cloning, or the scenes will download as small placeholder files and won't open.
+
+1. Download and install Git LFS from [git-lfs.com](https://git-lfs.com/). It's already included with recent versions of Git for Windows.
+2. Run this once:
+
+```
+git lfs install
+```
+
+### 2. Clone the Repository
+
+```
+git clone https://github.com/Jerrell404/SnackRun.git
+cd SnackRun
+```
+
+> ⚠️ Don't use GitHub's **Download ZIP** button. The ZIP may leave out the LFS files.
 ### 1. Clone the Repository
 
 ```
@@ -28,14 +47,14 @@ git clone https://github.com/Jerrell404/SnackRun.git
 cd SnackRun
 ```
 
-### 2. Open the Project in Unity
+### 3. Open the Project in Unity
 
 1. Launch Unity Hub.
 2. Click **Add project from disk**.
 3. Select the cloned `SnackRun` folder.
 4. Open it using **Unity 6000.3.21f1** (or another Unity 6 version).
 
-### 3. Play the Game
+### 4. Play the Game
 
 Open `Assets/Scenes/MainMenu.unity` and press **Play ▶️**.
 
